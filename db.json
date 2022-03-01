@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "sakaldeep",
+      "email": "sakaldeepmax04@gmail.com",
+      "contact": "9920281585",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Mohit",
+      "email": "mohit@123",
+      "contact": "7084040226",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Priya Singh ",
+      "email": "priya@gamil.com",
+      "contact": "2323243434",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "Gita",
+      "email": "gita@gmail.com",
+      "contact": "232323341",
+      "gender": "female",
+      "id": 4
+    }
+  ]
+}

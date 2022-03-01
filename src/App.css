@@ -1,0 +1,181 @@
+.login-section{
+  margin-left: 330px !important;
+}
+.card {
+  border: none;
+  height: auto;
+}
+body {
+  background: #ededed;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.height-vh{
+  height: 100vh;
+}
+.brand-logo{
+  margin-bottom: 20px;
+
+}
+.icon-width {
+  width: 75px;
+  height: 75px;
+  background: #ededed;
+  border-radius: 100%;
+}
+.forms-inputs {
+  position: relative
+}
+
+.member-title{
+  margin: 0 0 20px;
+  font-weight: 900;
+  color: #484848;
+  text-align: center;
+  font-size: 24px;
+}
+.navbar-light{
+  background:#1a4197;
+}
+.nav-item.nav-profile img {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+ .nav-item.nav-profile .active-p {
+  height:10px;
+  position: absolute;
+  background: #08a900;
+  width: 10px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  bottom: 10px;
+  left: 55px;
+}
+.nav-item.nav-profile .nav-profile-name {
+  margin-left: .5rem;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+}
+.navbar-light .navbar-brand{
+  color: #fff!important;
+}
+.nav-item.nav-profile .nav-profile-name .logout{
+  color: #fff;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  background: inherit;
+}
+ .breadcrumb {
+  background: #1a4197;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  margin: 0;
+  padding: 8px 20px;
+}
+.breadcrumb a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+}
+.page-heading h1 {
+  color: #2d2d2d;
+  font-weight: 700;
+  font-size: 22px;
+  margin: 0;
+}
+.rul_staff { 
+  padding: 15px 5px;
+  flex-direction: row;
+  align-items: center;
+}
+.rul_staff .input-group, .quick-search .box {
+  margin-bottom:0px;
+}
+.rul_staff .form-control,.quick-search .box .form-control{
+  border: 1px solid rgba(42, 48, 52, 0.3);
+  transition: box-shadow 0.25s linear;
+  padding:0px 10px 0px 10px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius:50px;
+  border-radius: 50px; 
+  color: #5a5c60; 
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-appearance: none;
+  -moz-appearance:    none;
+  appearance:         none;
+}
+.rul_staff .form-control-select{
+
+  background: url(../src/img/select-drop.png)no-repeat #fff;
+  background-position: 96% center;
+}
+.rul_staff .btn {
+  -moz-border-radius: 50px;
+  -webkit-border-radius:50px;
+  border-radius: 50px;  
+ 
+  background-position: 13% center;
+  font-size: 16px; 
+  font-weight: 700;
+  padding: 0 35px 0px 45px;
+  color: #ecedee; 
+  word-spacing: 1px;
+}
+.totallist{
+  text-align: right;
+  width: 100%;
+  color: #2d2d2d;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.totallist span{
+  padding: 0 5px 0 10px;
+  color: #28a745;
+}
+
+.thead-bg{
+  background: #f7f7f7;
+}
+.forms-inputs span {
+  position: absolute;
+  top: -18px;
+  left: 10px;
+  background-color: #fff;
+  padding: 5px 10px;
+  font-size: 15px
+}
+
+.forms-inputs input {
+  height: 50px;
+  border: 2px solid #eee
+}
+
+.forms-inputs input:focus {
+  box-shadow: none;
+  outline: none;
+  border: 2px solid #000
+}
+
+.success-data {
+  display: flex;
+  flex-direction: column
+}
+
+.bxs-badge-check {
+  font-size: 90px
+}
+.heading-title{
+  font-weight: 900;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+.table-bordered td i{
+  margin-right: 10px;
+}
